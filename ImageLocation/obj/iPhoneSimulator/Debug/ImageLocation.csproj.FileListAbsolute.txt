@@ -1,0 +1,10 @@
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\bin\iPhoneSimulator\Debug\ImageLocation.exe
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\bin\iPhoneSimulator\Debug\ImageLocation.pdb
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\obj\iPhoneSimulator\Debug\ImageLocation.csprojResolveAssemblyReference.cache
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\obj\iPhoneSimulator\Debug\ImageLocation.exe
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\obj\iPhoneSimulator\Debug\ImageLocation.pdb
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\obj\iPhoneSimulator\Debug\ImageLocation.exe.mdb
+C:\Users\rwenderlich\Desktop\ImageLocation\ImageLocation\bin\iPhoneSimulator\Debug\ImageLocation.exe.mdb
